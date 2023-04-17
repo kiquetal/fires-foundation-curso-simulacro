@@ -98,5 +98,35 @@ Siempre avisados
 Simulacros sin información previa requiere de una alta preparación y de control de riesgos.
 
 
+- **Definir el nivel y cobertura del simulacro**
 
+Interno: Probar aspecto de manejo de emergencias dentro de una organización
+Ejemplo:
+Evacuación de instalaciones
+Prestación de primeros auxilios
+Activación de alarmas
 
+Multi agencial: Son idales
+
+- Articulación entre organizaciones
+- Prueba de protocolos
+- Medición de capacidades de respuesta.
+
+Tsunamis,inundaciones,terremotos
+
+Multi agencial con comunidades
+Buscan que la comunidad genere procesos de reparación ante desastres, las agencias de respuestas
+acciones de atención ante un evento complejo y con multiples escenarios de atencion
+Permite a los paises desarrollar procesos que pongan a pruebas su organización y respuesta
+ante incidentes complejos.
+
+- **Define el escenario de riesgos**
+
+El escenario de riesgo representa lo que se quiere simular en el ejercicio, es la base que pone el contexto
+de la situación; la definición de este depende de lo que se busca poner a prueba. La selección del escenario
+de riesgo va de la mano con los ánalisis de riegos y vulnerabilidad de la organización o el territorio donde
+se desarrollará el simulacro.
+
+### Seccion 3
+
+- **Presupuesto**
