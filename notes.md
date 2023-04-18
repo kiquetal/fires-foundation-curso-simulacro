@@ -127,8 +127,30 @@ de la situación; la definición de este depende de lo que se busca poner a prue
 de riesgo va de la mano con los ánalisis de riegos y vulnerabilidad de la organización o el territorio donde
 se desarrollará el simulacro.
 
-### Seccion 3
+### Seccion 3 - Datos técnicos del simulacro
 
-- **Presupuesto**
+
+- Establecer las funciones necesarias para la organización de un simulacro
+- Mencionar 2 responsabilidades de cada de las funciones establecidas en el organización de un simulacro
+- Indicar los aspectos importantes del presupuesto y datos generales del ejercicio.
+
+#### Pasos
+
+- Definir el equipo de trabajo
+
+Juridica
+
+Seguridad
+
+Información Pública
+
+Enlace
+
+Técnica [ Escenarios, Diseño de ejercicio, guiones ]
+Logistica [transporte, insumos, facilidades, unidad métrica]
+
+Pleaneación [ guión general, documentación insutrmentso sistema de información y tecnologica
+
+Administración y Finanzas [presupuesto,compras costos] 
 
 
