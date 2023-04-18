@@ -138,19 +138,57 @@ se desarrollará el simulacro.
 
 - Definir el equipo de trabajo
 
-Juridica
-
-Seguridad
-
-Información Pública
-
-Enlace
-
-Técnica [ Escenarios, Diseño de ejercicio, guiones ]
-Logistica [transporte, insumos, facilidades, unidad métrica]
-
-Pleaneación [ guión general, documentación insutrmentso sistema de información y tecnologica
-
-Administración y Finanzas [presupuesto,compras costos] 
+*Gerente del simulacro*
+ Es la persona que asume la dirección de la organización y ejecución del simulacro, debe estar al tanto de todas las acciones que se desarrollen, establecer las necesidades y 
+coordinar con los demas actores que van a participar del ejercicio.
+Convocará a las reuniones de organización y verificará el cumplimiento en las listas de chequeo.
 
 
+*Juridica*
+
+
+*Seguridad*
+Evaluar todo los pormoneros que puede tener su ejecución, y elabora un plan de seguridad, asi como la evaluación de riesgos del escenario, desde su instalación
+operación y desmonte.
+
+Verificara que las condiciones estan dadas antes del ejercicio.
+
+
+*Información Pública*
+Su nombramiento depende de la necesidad de brindar información a las comunidades en el área de influencia directa del simulacro o la convocatoria a medios de 
+comunicación para dar cubrimiento del evento.
+
+
+
+*Enlace*
+Se establece si es multi-agencial o incluye la comunidad,
+Establecer contactos, invitaciones, confirmar particpación y gestionar las necesidades con las diferentes entidades.
+
+
+
+*Técnica* [ Escenarios, Diseño de ejercicio, guiones ]
+Lo llamamos operaciones, en el comando de operaciones, montaje y desmontaje de los escenarios. Todo bajo el escenario de riesgo establecido. Cómo sera manejado el ejercicio
+y los mecánismo a utilizar para el envío de mensajes.
+
+
+*Logistica* [transporte, insumos, facilidades, unidad métrica]
+
+Es el responsable de garantizar la disponibilidad de los recursos y suministros para el desarrollo del ejercicio. La sección logistica del ejercicio está diseñada 
+para servir solo a la organización del ejercicio. La logística de la respuesta al supuesto incidente corre por cuenta de los participantes.
+
+
+*Planeación* [ guión general, documentación instrumentos sistema de información y tecnologica
+
+Alimentación,Unidad médica,transporte, comunicaciones.
+
+
+Recoge toda la información que se va generando
+Desarrolla el plan de acción del simulacro, y los diferentes instrumentos que se requiere, tales como guiones, evaluación, etc
+Se encarga de seguir la línea del tiempo, llevar el situacional,la documentación y verificar el cumplimineto de los guiones.
+Es el responsable de consolodiar la información y elaborar el informe final.
+
+
+*Administración y Finanzas [presupuesto,compras costos]*
+
+
+- 
