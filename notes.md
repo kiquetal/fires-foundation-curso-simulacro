@@ -190,5 +190,26 @@ Es el responsable de consolodiar la información y elaborar el informe final.
 
 *Administración y Finanzas [presupuesto,compras costos]*
 
+Presupuestos, procesos de contratación, legalizaciones y demás que sean requeridos.
 
-- 
+-- Determine el presupuesto
+
+- Personal requerido
+- Refrigerios y alimentación
+- Transporte
+- Hoteles
+- Montaje de escenarios
+- Insumos y combustibles
+- Papelería
+- Comunicaciones
+- Otros.
+
+-- Defina fecha, hora, duración y ubicación del ejercicio.
+
+- Fechas convenientes
+
+- Debe dar el tiempo para la ejecución de todas las acciones planteadas.
+
+- La ubicación del ejercicio, también depende directamente de los objetivos y del escenario de riego planteado.
+Seguridad de la zona, acceso de los recuros y facilidad del montaje  y desmontaje.
+ 
