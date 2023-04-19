@@ -225,6 +225,45 @@ Seguridad de la zona, acceso de los recuros y facilidad del montaje  y desmontaj
 - Genearn condiciones parecidas a las reales pero bajo situaciones controladas y seguras.
 - Entre más complejo el escenario, mayor la necesidad de recursos para su implementación.
 
+#### Caracteris de la ficha técnica
 
+- # de escenario, oficial de seguridad del escenario 
+- Riesgo que va a ser escenficado
+- Acciones de respuesta que se esperan en ese escenario
+- Recursos necesarios para su montaje
+- Fecha y hora en que se va activar 
+
+#### Antes
+
+Revisar que tipo de montaje se van a utilizar, efectos epeciales que se se utilizaran
+Verificar si el simulacro va a utilizar actores como pacientes, donde van a estar ubicados.
+Establecer la seguridad de la zona donde se va a instalar el escenario.
+Asegurarse que las autoridades locales y la policía conocen acerca del simulacro y del escenario
+Hacer un anális de riesgo del escenario y definir medidas de control y reducción del riesgo
+
+#### Durante
+
+Esten dado todas las condiciones de seguridad.
+Implementar el Plan de seguridad elaborado, incluyendo la ubicación de un equipo de saludad y de incendios.
+Verificar que el escenario esté seguro antes de iniciar el simulacro.
+Detectar cualquier acción o condición insegura que ponga en peligro a las personas que están dando respuesta 
+en el escenario.
+Verificar que los actores estén seguros durante el desarrollo del ejercicio.
+Asegurar que los mensajes que se envien estén precedidos de la palabra simulacro.
+Debe haber una persona de seguridad por escenario.
+
+#### Después
+
+Realizar el acompañamiento durante del desmontaje para que las condiciones de seguridad se mantengan.
+Verificar que finalizado el simulacro todas las personas que participaron se encuetren en buenas condiciones.
+Verificar que se informe a la comunidad sobre finalizado el simulacro.
+
+#### Caracteristicas
+
+Inician con un evento detonante
+Se inicia simple y se vuelve más complejo
+Se iran proyectando las situaciones que se van a plantear en los guiones
+Se deben probar en el peor escenario para que se dé la toma de decisiones.
+Ajustados a la realidad que se va a poner a prueba.
 
  
