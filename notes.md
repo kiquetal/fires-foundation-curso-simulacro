@@ -212,4 +212,19 @@ Presupuestos, procesos de contratación, legalizaciones y demás que sean requer
 
 - La ubicación del ejercicio, también depende directamente de los objetivos y del escenario de riego planteado.
 Seguridad de la zona, acceso de los recuros y facilidad del montaje  y desmontaje.
+
+
+### Sección 4 - Escenarios
+
+  Una vez definida el escenario de riesgo, es necesario entrar a establecer como se va a escenificar
+
+- Se deben escenificar escenarios reales y posibles de ocurrencia.
+- Son maquetas a escala real que crean condiciones similares a los que se esperaría pasara a la realidad 
+- Deben garantizar la seguridad de todas las personas que vayan a intervenir en ellos
+- Requieren de un proceso de planeación y diseño de montaje
+- Genearn condiciones parecidas a las reales pero bajo situaciones controladas y seguras.
+- Entre más complejo el escenario, mayor la necesidad de recursos para su implementación.
+
+
+
  
