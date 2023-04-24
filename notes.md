@@ -266,4 +266,9 @@ Se iran proyectando las situaciones que se van a plantear en los guiones
 Se deben probar en el peor escenario para que se dé la toma de decisiones.
 Ajustados a la realidad que se va a poner a prueba.
 
-#### Sección 5 
+#### Sección 5
+
+- Evaluación del riesgos en simulacros
+
+En 2 aspectos, es el simulacro en general como un todo y lo segundo los escenarios puntuales de afectación
+ 
