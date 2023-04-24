@@ -271,4 +271,35 @@ Ajustados a la realidad que se va a poner a prueba.
 - Evaluación del riesgos en simulacros
 
 En 2 aspectos, es el simulacro en general como un todo y lo segundo los escenarios puntuales de afectación
+
+
+##### Se debe analizar:
+
+- Amenanza, fuetne de riesgo, consecuencia posible si se llegará a materiala el riesgos, medidas para el control y reducción del riesgo, recomendaciones o mensaje de seguridad
+
+
+Use de efectos especiales (explosiones, humo,fuego,agua,escombros)
+
+Participación de actores como pacientes y que tan expuestos pueden estar frente a las amanezas identificadas
+
+Movilización de recursos de respuesta por la ciudad como parte del ejercicio(no uso de sirenas, solo luces, desplazamiento de los límites de seguridad)
+
+Cambios climáticos bruscos que puedan alterar las condiciones de seguridad del simulacro.
+
+##### Funciones del oficial se seguridad:
+
+Debe existir un oficial seguridad para el simulacro, cada escenario debe tener un responsable de seguridad, que debe velar por que las acciones de seguridad
+de sus escenarios se cumplan
+Está en la obligación de parar el ejercicio si observa una condición insegura que ponga en peligro a los participantes al simulacro.
+
+Puede detener y retirara uno de los participantes si este está cometiendo una acción insegura que lo ponga en riesgo.
+
+#### Plan de seguridad
+
+Análisis de riegos, por el ejercicio en general y por escenario
+Medidas de control y reducción del riesgos que serán implementados.
+Plan de notificación, alarma y evacuación por escenario.
+Recomendaciones de seguridad para los participantes.
+
+#### Plan médico
  
