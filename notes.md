@@ -302,4 +302,5 @@ Plan de notificación, alarma y evacuación por escenario.
 Recomendaciones de seguridad para los participantes.
 
 #### Plan médico
- 
+
+Siempre se debe poner la salud de los particpantes por encima de todo 
